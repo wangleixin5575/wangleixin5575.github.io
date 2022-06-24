@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jun 2022 21:47:23 +0800</lastBuildDate><atom:link href="https://wangleixin5575.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>hugo博客搭建</title>
+      <title>hugo静态博客搭建</title>
       <link>https://wangleixin5575.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 24 Jun 2022 21:47:23 +0800</pubDate>
       
       <guid>https://wangleixin5575.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <description>xxx</description>
     </item>
     
   </channel>
