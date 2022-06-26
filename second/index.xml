@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seconds on My New Hugo Site</title>
+    <link>https://wangleixin5575.github.io/second/</link>
+    <description>Recent content in Seconds on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jun 2022 21:47:23 +0800</lastBuildDate><atom:link href="https://wangleixin5575.github.io/second/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo静态博客搭建22</title>
+      <link>https://wangleixin5575.github.io/second/second/</link>
+      <pubDate>Fri, 24 Jun 2022 21:47:23 +0800</pubDate>
+      
+      <guid>https://wangleixin5575.github.io/second/second/</guid>
+      <description>xxx</description>
+    </item>
+    
+  </channel>
+</rss>
